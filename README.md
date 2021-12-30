@@ -12,9 +12,9 @@ const Ariel = {
   Frameworks:[ React Js, React Native, Redux ]
   },
   Backend:{
-  Frameworks:[ Node Js ]
+  Frameworks:[ Node Js, Express Js, JWT , Passport ]
   },
-  DataBases:[ Mongo DB, SQL ],
+  DataBases:[ Mongo DB, SQL ]
 }
 ```
 - 🔭 I’m currently working on my portfolio
