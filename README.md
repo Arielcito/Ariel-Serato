@@ -17,6 +17,6 @@ const Ariel = {
   DataBases:[ Mongo DB, SQL ]
 }
 ```
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m working on Mobile and Web apps with React and React Native
 - 🌱 I’m currently learning Next js
 
