@@ -34,6 +34,7 @@ const Ariel = {
   
   <br>
 - 🔭 I’m working on Mobile and Web apps with React and React Native
+  <br>
 - 🌱 I’m currently learning Next js
 
 <br>
