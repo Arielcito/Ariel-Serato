@@ -29,6 +29,9 @@ const Ariel = {
 
 <br>
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arielcito&show_icons=true&theme=onedark)
+  
+  <br>
 - 🔭 I’m working on Mobile and Web apps with React and React Native
 - 🌱 I’m currently learning Next js
 
